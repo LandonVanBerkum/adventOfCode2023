@@ -1,3 +1,3 @@
 # adventOfCode2023
 Naming Convention:  
-aoc_*day*_*part*.py
+aoc23_*day*_*part*.py
